@@ -19,7 +19,7 @@ I am an aspiring Full Stack Developer.
 - 🌱 I’m currently learning **Java, SpringBoot, Hibernate**
 - 👯 I am also looking for some **Open Source Oppurtunities**
 - 👨🏻‍🎓 Visit my **[Portfolio](https://akashvishwakarma27.github.io/)**
-- 👨‍💻 All of my projects are available at **[here](https://akashvishwakarma27.github.io/)**
+- 👨‍💻 All of my projects are available at **[here](https://github.com/akashvishwakarma27?tab=repositories/)**
 - 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1phf6HQaA4cyvHQ8Y0OCw3RjRFSxZ8X_H/view?usp=drive_link)**
 - 💬 Ask me about **JAVA,Spring, Hibernate, MySQL, HTML, CSS, JavaScript and DSA**
 - 📫 How to reach me **akashvish4masai@gmail.com**
