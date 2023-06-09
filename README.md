@@ -45,6 +45,9 @@ I am an aspiring Full Stack Developer.
 ![Postman](https://img.shields.io/badge/Postman-f15a24?style=for-the-badge&logo=Postman&logoColor=white)
 ![STS](https://img.shields.io/badge/STS-58b531?style=for-the-badge&logo=spring&logoColor=white)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username= akashvishwakarma27&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ## 📊 GitHub Stats:
 
 <p align="center">
