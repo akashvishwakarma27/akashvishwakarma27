@@ -46,7 +46,7 @@ I am an aspiring Full Stack Developer.
 ![STS](https://img.shields.io/badge/STS-58b531?style=for-the-badge&logo=spring&logoColor=white)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username= akashvishwakarma27&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p>(https://github-profile-trophy.vercel.app/?username= akashvishwakarma27&theme=radical&no-frame=false&no-bg=false&margin-w=4)</p>
 
 ## 📊 GitHub Stats:
 
