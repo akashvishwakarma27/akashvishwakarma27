@@ -23,8 +23,7 @@ I am an aspiring Full Stack Developer.
 - 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1phf6HQaA4cyvHQ8Y0OCw3RjRFSxZ8X_H/view?usp=drive_link)**
 - 💬 Ask me about **JAVA,Spring, Hibernate, MySQL, HTML, CSS, JavaScript and DSA**
 - 📫 How to reach me **akashvish4masai@gmail.com**
-- Visit my **[Linkdin Account](https://www.linkedin.com/in/akash-vishwakarma-117129252/"Title")**
-
+- 🟦 Visit my **[Linkdin Account](https://www.linkedin.com/in/akash-vishwakarma-117129252/"Title")**
 
 ---
 
@@ -45,13 +44,9 @@ I am an aspiring Full Stack Developer.
 ![Postman](https://img.shields.io/badge/Postman-f15a24?style=for-the-badge&logo=Postman&logoColor=white)
 ![STS](https://img.shields.io/badge/STS-58b531?style=for-the-badge&logo=spring&logoColor=white)
 
-<<<<<<< HEAD
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=akashvishwakarma27&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-=======
-
->>>>>>> 848478604bf180b65984cbf1f14f249345b3579e
 
 ## 📊 GitHub Stats:
 
