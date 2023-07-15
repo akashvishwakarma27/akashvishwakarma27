@@ -16,62 +16,68 @@
 
 I am an aspiring Full Stack Developer.
 
-- 🌱 I’m currently learning **Java, SpringBoot, Hibernate**
-- 👯 I am also looking for some **Open Source Oppurtunities**
-- 👨🏻‍🎓 Visit my **[Portfolio](https://akashvishwakarma27.github.io/"Title")**
-- 👨‍💻 All of my projects are available at **[here](https://github.com/akashvishwakarma27?tab=repositories/)**
+- 🌱 I’m currently enlightening myself with Spring Security.
+  <br>
+  💬 Ask me about Java & SpringBoot.
+  <br>
+  👨‍💻 All my projects are available in the [repository section](https://github.com/akashvishwakarma27?tab=repositories).
+  <br>
+  👨🏻‍🎓 Have a look at my [Portfolio](https://akashvishwakarma27.github.io/).
+  <br>
 - 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1phf6HQaA4cyvHQ8Y0OCw3RjRFSxZ8X_H/view?usp=drive_link)**
+  <br>
 - 💬 Ask me about **JAVA,Spring, Hibernate, MySQL, HTML, CSS, JavaScript and DSA**
+  <br>
 - 📫 How to reach me **akashvish4masai@gmail.com**
-- 🟦 Visit my **[Linkdin Account](https://www.linkedin.com/in/akash-vishwakarma-117129252/"Title")**
+  <br>
+- ⚡ Fun fact, I'm also an avid photographer.
 
----
+<br>
 
-## 🛠️Languages and Tools:
+## 🌐 Socials:
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white)
-![Springboot](https://img.shields.io/badge/springboot-64b743?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/hibernate-bcae79?style=for-the-badge&logo=hibernate&logoColor=white)
-![MySql](https://img.shields.io/badge/MySql-00758f?style=for-the-badge&logo=MySql&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-vishwakarma-117129252)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2.svg?logo=Portfolio&logoColor=white)](https://akashvishwakarma27.github.io/)&nbsp;
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Git](https://img.shields.io/badge/Git-dd4c35?style=for-the-badge&logo=Git&logoColor=white)
-![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-f15a24?style=for-the-badge&logo=Postman&logoColor=white)
-![STS](https://img.shields.io/badge/STS-58b531?style=for-the-badge&logo=spring&logoColor=white)
+<br>
+
+## 💻 Tech Stack:
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;
+![Spring](https://img.shields.io/badge/spring-%23ED8B00.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;&nbsp;
+![SpringBoot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;
+![Hibernate](https://img.shields.io/badge/hibernate-bcae79?style=for-the-badge&logo=hibernate&logoColor=white)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;
+
+<br>
 
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=akashvishwakarma27&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+<br>
+
 ## 📊 GitHub Stats:
 
-<p align="center">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashvishwakarma27&theme=gotham&hide_border=true&layout=compact&langs_count=5"   width="35%" alt="akashvishwakarma27" align="left"></a>
-</p>
+<!-- Total Stats -->
 
-<p align="right">
-<a href="https://github.com/akashvishwakarma27?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=akashvishwakarma27&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="akashvishwakarma27 github-readme-stats"/></a>
-<a href="https://github.com/akashvishwakarma27?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=akashvishwakarma27&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="akashvishwakarma27 github-readme-streak-stats"/></a>
-</p>
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=akashvishwakarma27&theme=gotham&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
----
+<!-- Streak Stats -->
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=akashvishwakarma27&theme=gotham&hide_border=false)<br/>
+
+<!-- Top Languages -->
+
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akashvishwakarma27&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+<br>
+
+## ⚡ Activity Graph
+
+<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=akashvishwakarma27&theme=gotham&hide_border=true"/>
 
 ### Thanks for visiting! 😊
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
