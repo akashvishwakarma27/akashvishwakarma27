@@ -72,7 +72,7 @@ I am an aspiring Full Stack Developer.
 
 <!-- Top Languages -->
 
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akashvishwakarma27&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![priyankasanodiya14's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashvishwakarma27&theme=monokai&show_icons=true&hide_border=true&layout=compact)
 
 <br>
 
