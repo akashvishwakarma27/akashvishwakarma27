@@ -24,7 +24,7 @@ I am an aspiring Full Stack Developer.
   <br>
   👨🏻‍🎓 Have a look at my [Portfolio](https://akashvishwakarma27.github.io/).
   <br>
-- 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1phf6HQaA4cyvHQ8Y0OCw3RjRFSxZ8X_H/view?usp=drive_link)**
+- 🪢 Know more about me **[My Resume](https://drive.google.com/file/d/1phf6HQaA4cyvHQ8Y0OCw3RjRFSxZ8X_H/view?usp=sharing)**
   <br>
 - 💬 Ask me about **JAVA,Spring, Hibernate, MySQL, HTML, CSS, JavaScript and DSA**
   <br>
